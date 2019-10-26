@@ -10,7 +10,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>rune</module>
         <module>voxel-editor-core</module>
         <module>voxel-editor-editor</module>
     </modules>
