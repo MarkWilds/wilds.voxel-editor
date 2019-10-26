@@ -11,7 +11,6 @@ import wilds.voxeleditor.core.services.MapService;
 import wilds.rune.renderer.Color;
 import wilds.rune.renderer.IRenderer;
 import wilds.rune.renderer.batch.PrimitiveBatch;
-import wilds.rune.renderer.batch.TileBatch;
 import wilds.rune.renderer.gl.Texture2D;
 import wilds.rune.renderer.gl.states.SamplerState;
 import wilds.rune.util.Maths;
