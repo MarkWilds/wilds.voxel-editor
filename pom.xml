@@ -9,6 +9,17 @@
     <version>0.1</version>
     <packaging>pom</packaging>
 
+    <repositories>
+        <repository>
+            <id>wilds-rune-mvn-repo</id>
+            <url>https://raw.github.com/MarkWilds/wilds.rune/mvn-repo/</url>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <modules>
         <module>voxel-editor-core</module>
         <module>voxel-editor-editor</module>

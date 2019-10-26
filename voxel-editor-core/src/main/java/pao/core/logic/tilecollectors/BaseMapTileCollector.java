@@ -1,6 +1,6 @@
 package pao.core.logic.tilecollectors;
 
-import com.wildrune.rune.geometry.Plane;
+import wilds.rune.geometry.Plane;
 
 import it.unimi.dsi.fastutil.ints.IntOpenHashSet;
 import it.unimi.dsi.fastutil.ints.IntSet;

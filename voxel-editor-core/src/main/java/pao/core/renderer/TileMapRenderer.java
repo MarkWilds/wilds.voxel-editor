@@ -8,16 +8,16 @@ import pao.core.models.mapobjects.tiles.CubeTile;
 import pao.core.models.mapobjects.tiles.CubeTileSide;
 import pao.core.services.MapService;
 
-import com.wildrune.rune.renderer.Color;
-import com.wildrune.rune.renderer.IRenderer;
-import com.wildrune.rune.renderer.batch.PrimitiveBatch;
-import com.wildrune.rune.renderer.batch.TileBatch;
-import com.wildrune.rune.renderer.gl.Texture2D;
-import com.wildrune.rune.renderer.gl.states.SamplerState;
-import com.wildrune.rune.util.Maths;
-import com.wildrune.rune.util.Textures;
-import com.wildrune.rune.viewport.IViewport;
-import com.wildrune.rune.viewport.camera.BaseCamera;
+import wilds.rune.renderer.Color;
+import wilds.rune.renderer.IRenderer;
+import wilds.rune.renderer.batch.PrimitiveBatch;
+import wilds.rune.renderer.batch.TileBatch;
+import wilds.rune.renderer.gl.Texture2D;
+import wilds.rune.renderer.gl.states.SamplerState;
+import wilds.rune.util.Maths;
+import wilds.rune.util.Textures;
+import wilds.rune.viewport.IViewport;
+import wilds.rune.viewport.camera.BaseCamera;
 
 import com.jogamp.opengl.GL2ES2;
 import org.joml.Matrix4f;

@@ -1,9 +1,9 @@
 package pao.core.logic.camera;
 
-import com.wildrune.rune.geometry.Plane;
-import com.wildrune.rune.util.Maths;
-import com.wildrune.rune.viewport.camera.BaseCamera;
-import com.wildrune.rune.viewport.camera.PerspCamera;
+import wilds.rune.geometry.Plane;
+import wilds.rune.util.Maths;
+import wilds.rune.viewport.camera.BaseCamera;
+import wilds.rune.viewport.camera.PerspCamera;
 
 import org.joml.Matrix4f;
 import org.joml.Vector2i;

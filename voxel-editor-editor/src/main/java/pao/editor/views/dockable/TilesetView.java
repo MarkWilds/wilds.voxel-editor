@@ -8,7 +8,7 @@ import pao.editor.views.ToolBarView;
 import pao.editor.views.components.TilesetPanel;
 import pao.editor.views.tablelayout.swing.Table;
 
-import com.wildrune.rune.geometry.Area;
+import wilds.rune.geometry.Area;
 
 import com.alee.api.data.CompassDirection;
 import com.alee.laf.filechooser.WebFileChooser;

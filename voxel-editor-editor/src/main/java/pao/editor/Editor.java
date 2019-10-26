@@ -6,8 +6,8 @@ import pao.core.services.TilesetService;
 import pao.editor.views.EditorView;
 import pao.editor.views.LoaderView;
 
-import com.wildrune.rune.viewport.IViewportFactory;
-import com.wildrune.rune.viewport.jogl.JoglContextManager;
+import wilds.rune.viewport.IViewportFactory;
+import wilds.rune.viewport.jogl.JoglContextManager;
 
 import com.alee.laf.WebLookAndFeel;
 import com.alee.managers.hotkey.HotkeyManager;

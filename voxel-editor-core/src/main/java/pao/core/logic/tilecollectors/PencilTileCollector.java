@@ -2,8 +2,8 @@ package pao.core.logic.tilecollectors;
 
 import pao.core.models.Map;
 
-import com.wildrune.rune.geometry.Ray;
-import com.wildrune.rune.util.Maths;
+import wilds.rune.geometry.Ray;
+import wilds.rune.util.Maths;
 
 import org.joml.Vector3f;
 import org.joml.Vector3i;

@@ -1,6 +1,6 @@
 package pao.core.logic.camera;
 
-import com.wildrune.rune.viewport.camera.BaseCamera;
+import wilds.rune.viewport.camera.BaseCamera;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;

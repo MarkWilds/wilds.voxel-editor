@@ -2,9 +2,9 @@ package pao.core.models.mapobjects;
 
 import pao.core.models.mapobjects.operations.IMapObjectOperation;
 
-import com.wildrune.rune.geometry.Box;
-import com.wildrune.rune.geometry.Ray;
-import com.wildrune.rune.util.Maths;
+import wilds.rune.geometry.Box;
+import wilds.rune.geometry.Ray;
+import wilds.rune.util.Maths;
 
 /**
  * @author Mark "Wilds" van der Wal

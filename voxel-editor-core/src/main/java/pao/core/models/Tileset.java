@@ -1,6 +1,6 @@
 package pao.core.models;
 
-import com.wildrune.rune.geometry.Area;
+import wilds.rune.geometry.Area;
 
 import org.joml.Vector2f;
 import org.joml.Vector2i;

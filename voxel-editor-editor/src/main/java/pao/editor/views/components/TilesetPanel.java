@@ -2,7 +2,7 @@ package pao.editor.views.components;
 
 import pao.core.models.Tileset;
 
-import com.wildrune.rune.geometry.Area;
+import wilds.rune.geometry.Area;
 
 import com.alee.laf.panel.WebPanel;
 import org.apache.logging.log4j.LogManager;

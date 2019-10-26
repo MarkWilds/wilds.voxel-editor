@@ -5,8 +5,8 @@ import pao.core.services.MapService;
 import pao.editor.models.ToolBarElement;
 import pao.editor.views.ToolBarView;
 
-import com.wildrune.rune.viewport.IViewport;
-import com.wildrune.rune.viewport.handler.ViewportHandlerAdapter;
+import wilds.rune.viewport.IViewport;
+import wilds.rune.viewport.handler.ViewportHandlerAdapter;
 
 import java.awt.event.MouseEvent;
 

@@ -2,8 +2,8 @@ package pao.core.logic.tilecollectors;
 
 import pao.core.models.Map;
 
-import com.wildrune.rune.geometry.Plane;
-import com.wildrune.rune.geometry.Ray;
+import wilds.rune.geometry.Plane;
+import wilds.rune.geometry.Ray;
 
 import it.unimi.dsi.fastutil.ints.IntSet;
 

@@ -13,7 +13,7 @@ import pao.editor.views.dialogs.MapInformationDialog;
 import pao.editor.views.dockable.IDockable;
 import pao.editor.views.dockable.LoggingView;
 
-import com.wildrune.rune.viewport.IViewportFactory;
+import wilds.rune.viewport.IViewportFactory;
 
 import com.alee.extended.dock.SidebarVisibility;
 import com.alee.extended.dock.WebDockableFrame;

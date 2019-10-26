@@ -1,6 +1,6 @@
 package pao.core.models.mapobjects.tiles;
 
-import com.wildrune.rune.util.Maths;
+import wilds.rune.util.Maths;
 
 import org.joml.Vector3f;
 

@@ -11,13 +11,13 @@ import pao.editor.tools.PaintTileTool;
 import pao.editor.views.dockable.TilesetView;
 import pao.editor.views.tablelayout.swing.Table;
 
-import com.wildrune.rune.renderer.Color;
-import com.wildrune.rune.renderer.IRenderer;
-import com.wildrune.rune.viewport.IViewport;
-import com.wildrune.rune.viewport.IViewportFactory;
-import com.wildrune.rune.viewport.exceptions.ViewportException;
-import com.wildrune.rune.viewport.handler.IViewportInputHandler;
-import com.wildrune.rune.viewport.handler.IViewportLifeycleHandler;
+import wilds.rune.renderer.Color;
+import wilds.rune.renderer.IRenderer;
+import wilds.rune.viewport.IViewport;
+import wilds.rune.viewport.IViewportFactory;
+import wilds.rune.viewport.exceptions.ViewportException;
+import wilds.rune.viewport.handler.IViewportInputHandler;
+import wilds.rune.viewport.handler.IViewportLifeycleHandler;
 
 import com.alee.laf.button.WebToggleButton;
 import com.alee.laf.panel.WebPanel;
